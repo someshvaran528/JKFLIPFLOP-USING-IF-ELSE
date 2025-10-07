@@ -56,6 +56,7 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 <img width="699" height="336" alt="Screenshot 2025-10-07 111140" src="https://github.com/user-attachments/assets/cafaff37-ea69-41e8-b3d7-e3cd42663a5c" />
 
 
